@@ -1,5 +1,5 @@
 #### I'm currently learning how to use
-<img src='https://skillicons.dev/icons?i=linux,vim,neovim,mysql'/>
+<img src='https://skillicons.dev/icons?i=vim,neovim,mysql'/>
 (when I'm not procrastinating)
 
 ### Stats
